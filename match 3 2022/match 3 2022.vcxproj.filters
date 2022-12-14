@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Resource Files\graphics">
+      <UniqueIdentifier>{a063d03a-8db7-4a88-acdd-417cc41ee739}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\sound">
+      <UniqueIdentifier>{66f43e0f-f72a-4988-b335-5873c0492ce4}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Source.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Font Include="assets\fonts\Roboto-Bold.ttf">
+      <Filter>Resource Files</Filter>
+    </Font>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="assets\graphics\bg.png">
+      <Filter>Resource Files\graphics</Filter>
+    </Image>
+    <Image Include="assets\graphics\bomb.png">
+      <Filter>Resource Files\graphics</Filter>
+    </Image>
+    <Image Include="assets\graphics\element_blue_polygon.png">
+      <Filter>Resource Files\graphics</Filter>
+    </Image>
+    <Image Include="assets\graphics\element_blue_polygon_glossy.png">
+      <Filter>Resource Files\graphics</Filter>
+    </Image>
+    <Image Include="assets\graphics\element_gray_polygon.png">
+      <Filter>Resource Files\graphics</Filter>
+    </Image>
+    <Image Include="assets\graphics\element_gray_polygon_glossy.png">
+      <Filter>Resource Files\graphics</Filter>
+    </Image>
+    <Image Include="assets\graphics\element_green_polygon.png">
+      <Filter>Resource Files\graphics</Filter>
+    </Image>
+    <Image Include="assets\graphics\element_green_polygon_glossy.png">
+      <Filter>Resource Files\graphics</Filter>
+    </Image>
+    <Image Include="assets\graphics\element_grey_diamond.png">
+      <Filter>Resource Files\graphics</Filter>
+    </Image>
+    <Image Include="assets\graphics\element_grey_polygon.png">
+      <Filter>Resource Files\graphics</Filter>
+    </Image>
+    <Image Include="assets\graphics\element_grey_polygon_glossy.png">
+      <Filter>Resource Files\graphics</Filter>
+    </Image>
+    <Image Include="assets\graphics\element_purple_polygon.png">
+      <Filter>Resource Files\graphics</Filter>
+    </Image>
+    <Image Include="assets\graphics\element_purple_polygon_glossy.png">
+      <Filter>Resource Files\graphics</Filter>
+    </Image>
+    <Image Include="assets\graphics\element_red_polygon.png">
+      <Filter>Resource Files\graphics</Filter>
+    </Image>
+    <Image Include="assets\graphics\element_red_polygon_glossy.png">
+      <Filter>Resource Files\graphics</Filter>
+    </Image>
+    <Image Include="assets\graphics\element_yellow_polygon.png">
+      <Filter>Resource Files\graphics</Filter>
+    </Image>
+    <Image Include="assets\graphics\element_yellow_polygon_glossy.png">
+      <Filter>Resource Files\graphics</Filter>
+    </Image>
+    <Image Include="assets\graphics\score.png">
+      <Filter>Resource Files\graphics</Filter>
+    </Image>
+    <Image Include="assets\graphics\selectorA.png">
+      <Filter>Resource Files\graphics</Filter>
+    </Image>
+    <Image Include="assets\graphics\selectorB.png">
+      <Filter>Resource Files\graphics</Filter>
+    </Image>
+    <Image Include="assets\graphics\selectorC.png">
+      <Filter>Resource Files\graphics</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="assets\sounds\impactBell_heavy_000.ogg">
+      <Filter>Resource Files\sound</Filter>
+    </None>
+  </ItemGroup>
+</Project>
