@@ -19,6 +19,9 @@
     <Filter Include="Resource Files\sound">
       <UniqueIdentifier>{66f43e0f-f72a-4988-b335-5873c0492ce4}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Resource Files\media">
+      <UniqueIdentifier>{e8939d17-6d43-4695-ab88-2ff4b91d3448}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Source.cpp">
@@ -98,6 +101,9 @@
   <ItemGroup>
     <None Include="assets\sounds\impactBell_heavy_000.ogg">
       <Filter>Resource Files\sound</Filter>
+    </None>
+    <None Include="..\README.md">
+      <Filter>Source Files</Filter>
     </None>
   </ItemGroup>
 </Project>
