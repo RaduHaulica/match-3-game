@@ -97,6 +97,12 @@
     <Image Include="assets\graphics\selectorC.png">
       <Filter>Resource Files\graphics</Filter>
     </Image>
+    <Image Include="media\match 3 main.gif">
+      <Filter>Resource Files\media</Filter>
+    </Image>
+    <Image Include="media\match3 cover.png">
+      <Filter>Resource Files\media</Filter>
+    </Image>
   </ItemGroup>
   <ItemGroup>
     <None Include="assets\sounds\impactBell_heavy_000.ogg">

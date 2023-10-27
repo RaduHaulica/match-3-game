@@ -46,6 +46,8 @@
     <Image Include="assets\graphics\selectorA.png" />
     <Image Include="assets\graphics\selectorB.png" />
     <Image Include="assets\graphics\selectorC.png" />
+    <Image Include="media\match 3 main.gif" />
+    <Image Include="media\match3 cover.png" />
   </ItemGroup>
   <ItemGroup>
     <None Include="..\README.md" />
